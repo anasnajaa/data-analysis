@@ -1,0 +1,77 @@
+<%- include('../layout/header'); %>
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <canvas id="chart"></canvas>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    const data = <%- JSON.stringify(data) %>;
+
+    {
+        let datasets = [];
+        let labels = [];
+
+        let dataList = [];
+
+        [2000,2010,2015,2019].forEach(year => {
+            labels.push(year);
+            dataList.push({
+                year: year,
+                maleTotal: 0,
+                femaleTotal: 0,
+                count: 0
+            })
+        })
+
+
+        data.forEach(country => {
+            country.years.forEach(year => {
+                const point = dataList.find(x => x.year === year.year);
+                if(point){
+                    point.maleTotal += year.healthyLifeExpectencyAtBirth.male;
+                    point.femaleTotal += year.healthyLifeExpectencyAtBirth.female;
+                    point.count++;
+                }
+            });
+        });
+
+        dataList.forEach(item => {
+            item.averageMale = item.maleTotal / item.count;
+            item.averageFemale = item.femaleTotal / item.count;
+        });
+
+        datasets.push({
+            label: 'male',
+            data: dataList.map(x=>x.averageMale),
+            borderColor: "#6ea8fe",
+            backgroundColor: "#6ea8fe"
+        });
+
+        datasets.push({
+            label: 'female',
+            data: dataList.map(x=>x.averageFemale),
+            borderColor: "#ffda6a",
+            backgroundColor: "#ffda6a"
+        });
+
+        const ctx = document.getElementById('chart');
+    
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: datasets
+            }
+        });
+    }
+    
+  </script>
+
+<%- include('../layout/footer'); %>
