@@ -15,6 +15,7 @@ const {b1_q10} = require('../answers/b1_q10');
 const {a2_q1} = require('../answers/a2_q1');
 const {a2_q2} = require('../answers/a2_q2');
 const {a2_q3} = require('../answers/a2_q3');
+const {a2_q4} = require('../answers/a2_q4');
 
 
 const router = express.Router();
@@ -84,6 +85,11 @@ router.get("/a2_q2", async (req, res, next) => {
 router.get("/a2_q3", async (req, res, next) => {
     const data = await a2_q3();
     res.render('pages/a2_q3', { data });
+});
+
+router.get("/a2_q4", async (req, res, next) => {
+    const data = await a2_q4();
+    res.render('pages/a2_q4', { data });
 });
 
 module.exports = router;

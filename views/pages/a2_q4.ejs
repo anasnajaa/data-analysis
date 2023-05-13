@@ -1,0 +1,85 @@
+<%- include('../layout/header'); %>
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <canvas id="chart"></canvas>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    const data = <%- JSON.stringify(data) %>;
+
+    {
+        let datasets = [];
+        let labels = [];
+
+        data[0].years.forEach(year => {
+            labels.push(year.year);
+        })
+
+        let countryLabels = [];
+
+        data.forEach(country => {
+            countryLabels.push(country.country);
+        });
+
+        // labels.forEach(year => {
+        //     let dataList = [];
+
+        //     data.forEach(country => {
+        //         const curCountryYear = country.years.find(x => x.year === year);
+        //         dataList.push(curCountryYear.healthyLifeExpectencyAtBirth.both);
+        //     });
+
+        //     datasets.push({
+        //         label: countryLabels,
+        //         data: dataList,
+        //         borderColor: "#6ea8fe",
+        //         backgroundColor: "#6ea8fe"
+        //     });
+        // })
+
+        let dataList = [];
+
+        data.forEach(country => {
+            dataList.push({
+                country: country.country,
+                data: []
+            });
+        });
+
+        labels.forEach(year => {
+            data.forEach(country => {
+                const curCountryYear = country.years.find(x => x.year === year);
+                dataList.find(x => x.country === country.country).data.push(curCountryYear.healthyLifeExpectencyAtBirth.both);
+            });
+        })
+
+        dataList.forEach(dataItem =>{
+            datasets.push({
+                label: dataItem.country,
+                data: dataItem.data,
+                borderColor: "#6ea8fe",
+                backgroundColor: "#6ea8fe"
+            });
+        });
+
+        const ctx = document.getElementById('chart');
+    
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: datasets
+            }
+        });
+    }
+    
+  </script>
+
+<%- include('../layout/footer'); %>
