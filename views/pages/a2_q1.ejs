@@ -1,0 +1,37 @@
+<%- include('../layout/header'); %>
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <canvas id="myChart"></canvas>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    const ctx = document.getElementById('myChart');
+  
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        datasets: [{
+          label: '# of Votes',
+          data: [12, 19, 3, 5, 2, 3],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+
+<%- include('../layout/footer'); %>
