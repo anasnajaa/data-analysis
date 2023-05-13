@@ -1,0 +1,55 @@
+<%- include('../layout/header'); %>
+
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <canvas id="chart"></canvas>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    const data = <%- JSON.stringify(data) %>;
+
+    {
+        let datasets = [];
+        let labels = [];
+        let lifeExpecAtBirthMedianData = [];
+        let healthyLifeExpectencyAtBirthMedianData = [];
+
+        data.forEach(range => {
+            labels.push(range.year);
+            lifeExpecAtBirthMedianData.push(range.lifeExpecAtBirthMedian);
+            healthyLifeExpectencyAtBirthMedianData.push(range.healthyLifeExpectencyAtBirthMedian);
+        });
+
+        const ctx = document.getElementById('chart');
+    
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: "life Expec At Birth Median",
+                        data: lifeExpecAtBirthMedianData,
+                        borderColor: "#6ea8fe",
+                        backgroundColor: "#6ea8fe"
+                    },
+                    {
+                        label: "healthy Life Expectency At Birth Median",
+                        data: healthyLifeExpectencyAtBirthMedianData,
+                        borderColor: "#dc3545",
+                        backgroundColor: "#dc3545"
+                    }
+                ]
+            }
+        });
+    }
+    
+  </script>
+
+<%- include('../layout/footer'); %>
