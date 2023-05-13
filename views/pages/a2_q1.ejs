@@ -4,7 +4,17 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <canvas id="myChart"></canvas>
+                <canvas id="maleChart"></canvas>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <canvas id="femaleChart"></canvas>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <canvas id="bothChart"></canvas>
             </div>
         </div>
     </div>
@@ -12,26 +22,88 @@
 
 
 <script>
-    const ctx = document.getElementById('myChart');
-  
-    new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-        datasets: [{
-          label: '# of Votes',
-          data: [12, 19, 3, 5, 2, 3],
-          borderWidth: 1
-        }]
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true
-          }
-        }
-      }
-    });
+    const data = <%- JSON.stringify(data) %>;
+
+    {
+        let datasets = [];
+        let maleData = [];
+
+        data.forEach(range => {
+            maleData = maleData.concat(range.male);
+        });
+
+        const ctx = document.getElementById('maleChart');
+    
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: maleData,
+                datasets: [
+                    {
+                        label: "Male",
+                        data: maleData,
+                        borderColor: "#6ea8fe",
+                        backgroundColor: "#6ea8fe"
+                    }
+                ]
+            }
+        });
+    }
+
+    {
+        let datasets = [];
+        let femaleData = [];
+
+        data.forEach(range => {
+            femaleData = femaleData.concat(range.female);
+        });
+
+        const ctx = document.getElementById('femaleChart');
+    
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: femaleData,
+                datasets: [
+                    {
+                        label: "Female",
+                        data: femaleData,
+                        borderColor: "#ea868f",
+                        backgroundColor: "#ea868f"
+                    }
+                ]
+            }
+        });
+    }
+
+
+    {
+        let datasets = [];
+        let bothData = [];
+
+        data.forEach(range => {
+            bothData = bothData.concat(range.both);
+        });
+
+        const ctx = document.getElementById('bothChart');
+    
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: bothData,
+                datasets: [
+                    {
+                        label: "Both",
+                        data: bothData,
+                        borderColor: "#842029",
+                        backgroundColor: "#842029"
+                    }
+                ]
+            }
+        });
+    }
+
+    
   </script>
 
 <%- include('../layout/footer'); %>
