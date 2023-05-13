@@ -28,12 +28,13 @@ exports.b2_q6 = async () => {
     let kuwaitMaleRankList = [];
 
     yearsList.forEach(year => {
-        year.sortedMale = year.data.sort((a,b) => {
+        year.sortedMale = [...year.data.sort((a,b) => {
             return a.male - b.male;
-        })
-        year.sortedFemale = year.data.sort((a,b) => {
+        })];
+
+        year.sortedFemale = [...year.data.sort((a,b) => {
             return a.female - b.female;
-        })
+        })];
     })
 
     yearsList.forEach(year => {
@@ -58,21 +59,40 @@ exports.b2_q6 = async () => {
         }
     })
 
+    let maleList = [];
+    let femaleList = [];
 
-    let worstRankMale = {year: 0, value: 10000, rank: 100000};
-    let worstRankFemale = {year: 0, value: 10000, rank: 100000};
+    yearsList.forEach(year => {
+        maleList.push({
+            year: year.year,
+            rank: year.sortedFemale.findIndex(x => x.country === 'kuwait')
+        })
+        femaleList.push({
+            year: year.year,
+            rank: year.sortedMale.findIndex(x => x.country === 'kuwait')
+        })
+    })
 
-    let bestRankMale = {year: 0, value: 10000, rank: 0};
-    let bestRankFemale = {year: 0, value: 10000, rank: 0};
+    console.log(femaleList);
+    console.log(maleList);
+
+    let worstRankMale = {year: 0, value: 0, rank: 0};
+    let worstRankFemale = {year: 0, value: 0, rank: 0};
+
+    let bestRankMale = {year: 0, value: 0, rank: 100000};
+    let bestRankFemale = {year: 0, value: 0, rank: 100000};
+
+
 
     kuwaitMaleRankList.forEach(item => {
-        if(item.rank < worstRankMale.rank) {
+
+        if(item.rank > worstRankMale.rank) {
             worstRankMale.rank = item.rank;
             worstRankMale.value = item.value;
             worstRankMale.year = item.year;
         }
 
-        if(item.rank > bestRankMale.rank) {
+        if(item.rank < bestRankMale.rank) {
             bestRankMale.rank = item.rank;
             bestRankMale.value = item.value;
             bestRankMale.year = item.year;
@@ -80,13 +100,13 @@ exports.b2_q6 = async () => {
     });
 
     kuwaitFemaleRankList.forEach(item => {
-        if(item.rank < worstRankFemale.rank) {
+        if(item.rank > worstRankFemale.rank) {
             worstRankFemale.rank = item.rank;
             worstRankFemale.value = item.value;
             worstRankFemale.year = item.year;
         }
 
-        if(item.rank > bestRankFemale.rank) {
+        if(item.rank < bestRankFemale.rank) {
             bestRankFemale.rank = item.rank;
             bestRankFemale.value = item.value;
             bestRankFemale.year = item.year;

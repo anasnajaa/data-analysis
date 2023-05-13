@@ -3,35 +3,66 @@ const {normalizedCountries} = require('../util/normalize');
 exports.b2_q7 = async () => {
     const countries = await normalizedCountries();
 
-    let list = [];
+
+    let yearsList = [
+        { year: 2000, data: [] },
+        { year: 2010, data: [] },
+        { year: 2015, data: [] },
+        { year: 2019, data: [] }
+    ];
 
     countries.forEach(country => {
         country.years.forEach(year => {
-            const countryFound = list.find(x => x.country === country.country);
-            if(countryFound){
-                countryFound.values.push(year.lifeExpecAtAge60.male)
-            } else {
-                list.push({
-                    country: country.country,
-                    values: [year.lifeExpecAtAge60.male]
-                })
-            }
-        });
+            yearsList.forEach(yearItem => {
+                if(yearItem.year === year.year){
+                    yearItem.data.push({
+                        year: year.year,
+                        country: country.country,
+                        male: year.lifeExpecAtAge60.male
+                    })
+                }
+            })
+        })
     })
 
-    list.forEach(country => {
-        country.delta1 = country.values[1] - country.values[0];
-        country.delta2 = country.values[2] - country.values[1];
-        country.delta3 = country.values[3] - country.values[2];
-        country.deltaSum = country.delta1 + country.delta2 + country.delta3;
-    });
+    yearsList.forEach(year => {
+        year.sortedMale = year.data.sort((a,b) => {
+            return a.male - b.male;
+        })
+    })
 
-    let sorted = list.sort((a, b) => {
-        return b.deltaSum - a.deltaSum;
-    });
+    console.log(year[0].sortedMale)
 
-    let best3 = [sorted[0], sorted[1], sorted[2]];
-    let worst3 = [sorted[181], sorted[180], sorted[179]];
+    let maleRankList = [];
+
+    yearsList.forEach(year => {
+        for(let i=0; i<year.sortedMale.length; i++){
+            maleRankList.push({
+                year: year.year,
+                rank: i,
+                country: year.sortedMale[i].country,
+                value: year.sortedMale[i].male
+            });
+        }
+    })
+
+    let best3 = [
+        { year: 2000, data: [] },
+        { year: 2010, data: [] },
+        { year: 2015, data: [] },
+        { year: 2019, data: [] }
+    ];
+
+    let worst3 = [
+        { year: 2000, data: [] },
+        { year: 2010, data: [] },
+        { year: 2015, data: [] },
+        { year: 2019, data: [] }
+    ];
+    
+    yearsList.forEach(year => {
+
+    })
 
     return {
         best3, worst3
