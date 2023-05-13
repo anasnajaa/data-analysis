@@ -19,6 +19,7 @@ const {a2_q4} = require('../answers/a2_q4');
 
 const {b2_q5} = require('../answers/b2_q5');
 const {b2_q6} = require('../answers/b2_q6');
+const {b2_q7} = require('../answers/b2_q7');
 
 
 
@@ -104,6 +105,11 @@ router.get("/b2_q5", async (req, res, next) => {
 router.get("/b2_q6", async (req, res, next) => {
     const data = await b2_q6();
     res.render('pages/b2_q6', { data });
+});
+
+router.get("/b2_q7", async (req, res, next) => {
+    const data = await b2_q7();
+    res.render('pages/b2_q7', { data });
 });
 
 module.exports = router;

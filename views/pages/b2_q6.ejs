@@ -11,11 +11,11 @@
                         </tr>
                       </thead>
                     <tbody>
-                        <%data.kuwaitResults.forEach((row, index) => {%>
+                        <%data.bestWorst.forEach((row, index) => {%>
                             <tr>
                                 <td><%=row.label%></td>
-                                <td><%=row.value.year%></td>
-                                <td><%=row.value.value%></td>
+                                <td><%=row.data.rank%></td>
+                                <td><%=row.data.year%></td>
                             </tr>    
                         <%})%>
                     </tbody>
@@ -42,35 +42,18 @@
 
         [2000,2010,2015,2019].forEach(year => {
             labels.push(year);
-            dataList.push({
-                year: year,
-                femaleValues: [],
-                maleValues: []
-            })
         })
-
-        
-        let maleValues = [];
-        let femaleValues = [];
-
-        data.list.forEach(year => {
-            const point = dataList.find(x => x.year === year.year);
-                if(point){
-                    maleValues.push(year.maleValue);
-                    femaleValues.push(year.femaleValue);
-                }
-        });
 
         datasets.push({
             label: 'male',
-            data: maleValues,
+            data: data.kuwaitMaleRankList.map(x => x.value),
             borderColor: "#6ea8fe",
             backgroundColor: "#6ea8fe"
         });
 
         datasets.push({
             label: 'female',
-            data: femaleValues,
+            data: data.kuwaitFemaleRankList.map(x => x.value),
             borderColor: "#ffda6a",
             backgroundColor: "#ffda6a"
         });
