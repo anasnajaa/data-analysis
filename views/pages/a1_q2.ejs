@@ -1,0 +1,29 @@
+<%- include('../layout/header'); %>
+<main>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <table class="table">
+                    <thead>
+                      <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">country</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                        <%data.forEach((row, index) => {%>
+                            <tr>
+                                <th scope="row"><%=index+1%></th>
+                                <td><%=row.country%></td>
+                              </tr>    
+                        <%})%>
+                    </tbody>
+                  </table>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+<%- include('../layout/footer'); %>

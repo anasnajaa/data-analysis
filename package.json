@@ -1,0 +1,22 @@
+{
+  "name": "data-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q1.js",
+  "scripts": {
+    "start": "if [[ $NODE_ENV == 'production' ]]; then node server.js; else nodemon server.js; fi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "isomorphic-fetch": "^3.0.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
