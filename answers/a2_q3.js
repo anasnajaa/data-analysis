@@ -7,11 +7,13 @@ exports.a2_q3 = async () => {
     countries.forEach(country => {
         country.years.forEach(year => {
             if(!year.year) return;
-            if(year >= 2000 && year <= 2019){
+            if(year.year >= 2000 && year.year <= 2019){
+
                 const yearFound = years.find(x => x.year === year.year);
+
                 if(yearFound){
 
-                    year.ranges.forEach(range => {
+                    yearFound.ranges.forEach(range => {
                         if(year.healthyLifeExpectencyAtBirth.male >= range.low &&
                             year.healthyLifeExpectencyAtBirth.male <= range.high ){
                             range.data.push(year.healthyLifeExpectencyAtBirth.male);
@@ -23,7 +25,7 @@ exports.a2_q3 = async () => {
                     let counter = 30;
                 
                     while (counter <= 90){
-                        ranges.push({
+                        temp.ranges.push({
                             low: counter,
                             high: counter+5,
                             label: `${counter} - ${counter+5}`,
@@ -45,8 +47,6 @@ exports.a2_q3 = async () => {
             }
         });
     });
-
-    console.log(years)
 
     return years;
 }
