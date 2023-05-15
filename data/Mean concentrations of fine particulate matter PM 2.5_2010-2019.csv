@@ -1,0 +1,1941 @@
+Location,Year,Residence,PM25 concn
+Grenada,2019,Total,10.08
+Trinidad and Tobago,2019,Total,10.26
+Lithuania,2019,Total,10.37
+France,2019,Total,10.46
+Mauritius,2019,Total,10.48
+Belize,2019,Total,10.51
+Germany,2019,Total,10.73
+Netherlands,2019,Total,10.74
+Japan,2019,Total,10.84
+Brazil,2019,Total,10.94
+Guyana,2019,Total,11.11
+Belgium,2019,Total,11.26
+Austria,2019,Total,11.51
+Panama,2019,Total,11.78
+Namibia,2019,Total,11.81
+Latvia,2019,Total,12.02
+Argentina,2019,Total,12.04
+Suriname,2019,Total,12.17
+Paraguay,2019,Total,12.31
+Republic of Moldova,2019,Total,12.37
+Kenya,2019,Total,12.52
+Botswana,2019,Total,12.82
+Malta,2019,Total,12.93
+Maldives,2019,Total,13.0
+Zimbabwe,2019,Total,13.08
+Romania,2019,Total,13.3
+Cuba,2019,Total,13.32
+Singapore,2019,Total,13.33
+Morocco,2019,Total,13.44
+Ukraine,2019,Total,13.51
+Colombia,2019,Total,14.04
+Slovenia,2019,Total,14.08
+Italy,2019,Total,14.22
+Hungary,2019,Total,14.24
+Somalia,2019,Total,14.28
+Czechia,2019,Total,14.34
+Comoros,2019,Total,14.37
+Cyprus,2019,Total,14.52
+Greece,2019,Total,14.62
+Costa Rica,2019,Total,14.7
+Jamaica,2019,Total,14.83
+Eswatini,2019,Total,15.07
+Croatia,2019,Total,15.29
+United Republic of Tanzania,2019,Total,15.36
+Belarus,2019,Total,15.48
+Slovakia,2019,Total,15.89
+Nicaragua,2019,Total,16.0
+Madagascar,2019,Total,16.02
+Venezuela (Bolivarian Republic of),2019,Total,16.21
+Albania,2019,Total,16.28
+Mozambique,2019,Total,16.45
+Ecuador,2019,Total,16.55
+Zambia,2019,Total,16.9
+Seychelles,2019,Total,16.96
+Bulgaria,2019,Total,17.29
+Lesotho,2019,Total,17.6
+Cambodia,2019,Total,17.8
+Mexico,2019,Total,17.83
+Malawi,2019,Total,18.57
+Poland,2019,Total,18.83
+Honduras,2019,Total,18.93
+Georgia,2019,Total,19.06
+Montenegro,2019,Total,19.3
+Indonesia,2019,Total,19.34
+South Africa,2019,Total,19.75
+Djibouti,2019,Total,19.98
+South Sudan,2019,Total,20.18
+Timor-Leste,2019,Total,20.47
+Chile,2019,Total,20.49
+Guatemala,2019,Total,20.75
+Viet Nam,2019,Total,20.89
+Lao People's Democratic Republic,2019,Total,21.15
+Sudan,2019,Total,21.43
+Malaysia,2019,Total,21.52
+Serbia,2019,Total,21.74
+Ethiopia,2019,Total,21.8
+El Salvador,2019,Total,22.15
+Philippines,2019,Total,22.45
+Algeria,2019,Total,22.68
+Eritrea,2019,Total,22.74
+Türkiye,2019,Total,23.25
+Sri Lanka,2019,Total,23.88
+Republic of Korea,2019,Total,24.04
+Lebanon,2019,Total,24.23
+Azerbaijan,2019,Total,24.64
+Thailand,2019,Total,24.64
+Syrian Arab Republic,2019,Total,25.14
+The former Yugoslav Republic of Macedonia,2019,Total,25.17
+Bolivia (Plurinational State of),2019,Total,25.23
+Equatorial Guinea,2019,Total,25.67
+Jordan,2019,Total,25.87
+Bhutan,2019,Total,26.1
+Bosnia and Herzegovina,2019,Total,26.19
+Gabon,2019,Total,26.29
+Turkmenistan,2019,Total,26.41
+Kazakhstan,2019,Total,26.5
+Tunisia,2019,Total,26.52
+Myanmar,2019,Total,27.16
+Angola,2019,Total,27.16
+Central African Republic,2019,Total,27.2
+Burundi,2019,Total,28.0
+Peru,2019,Total,29.07
+Congo,2019,Total,29.48
+Libya,2019,Total,29.84
+Occupied Palestinian territory,2019,Total,30.82
+Cabo Verde,2019,Total,31.08
+Uganda,2019,Total,31.31
+Benin,2019,Total,31.51
+Democratic Republic of the Congo,2019,Total,31.58
+Iran (Islamic Republic of),2019,Total,31.62
+Sao Tome and Principe,2019,Total,33.75
+Armenia,2019,Total,34.13
+Guinea-Bissau,2019,Total,34.85
+Oman,2019,Total,34.88
+Rwanda,2019,Total,35.66
+Togo,2019,Total,35.66
+Liberia,2019,Total,35.8
+Nepal,2019,Total,36.43
+Guinea,2019,Total,37.57
+Kyrgyzstan,2019,Total,37.58
+China,2019,Total,38.15
+Senegal,2019,Total,38.21
+Mali,2019,Total,38.55
+Gambia,2019,Total,39.1
+Iraq,2019,Total,39.29
+Sierra Leone,2019,Total,39.42
+Côte d’Ivoire,2019,Total,40.41
+Burkina Faso,2019,Total,40.74
+Uzbekistan,2019,Total,40.98
+Chad,2019,Total,41.15
+Mongolia,2019,Total,41.3
+Democratic People's Republic of Korea,2019,Total,41.46
+Yemen,2019,Total,41.61
+United Arab Emirates,2019,Total,41.75
+Mauritania,2019,Total,41.98
+Bangladesh,2019,Total,45.99
+Ghana,2019,Total,46.04
+Bahamas,2019,Total,5.2
+Finland,2019,Total,5.47
+Iceland,2019,Total,5.79
+Sweden,2019,Total,5.96
+Pakistan,2019,Total,50.13
+Niger,2019,Total,50.15
+India,2019,Total,50.17
+Bahrain,2019,Total,51.82
+Tajikistan,2019,Total,53.65
+Nigeria,2019,Total,55.64
+Cameroon,2019,Total,56.37
+Saudi Arabia,2019,Total,57.16
+Qatar,2019,Total,59.04
+Norway,2019,Total,6.3
+Estonia,2019,Total,6.35
+Canada,2019,Total,6.39
+Niue,2019,Total,6.74
+Tuvalu,2019,Total,6.81
+Brunei Darussalam,2019,Total,6.86
+Afghanistan,2019,Total,62.49
+Egypt,2019,Total,63.16
+Kuwait,2019,Total,64.08
+United States of America,2019,Total,7.18
+Marshall Islands,2019,Total,7.21
+Portugal,2019,Total,7.34
+Fiji,2019,Total,7.36
+Nauru,2019,Total,7.4
+Tonga,2019,Total,7.52
+Dominican Republic,2019,Total,7.59
+Kiribati,2019,Total,7.62
+Samoa,2019,Total,7.78
+Micronesia (Federated States of),2019,Total,7.79
+Cook Islands,2019,Total,7.8
+Palau,2019,Total,7.82
+Solomon Islands,2019,Total,7.83
+Saint Kitts and Nevis,2019,Total,8.05
+Ireland,2019,Total,8.2
+Dominica,2019,Total,8.22
+Antigua and Barbuda,2019,Total,8.3
+Vanuatu,2019,Total,8.42
+Uruguay,2019,Total,8.48
+Andorra,2019,Total,8.52
+New Zealand,2019,Total,8.61
+Russian Federation,2019,Total,8.88
+Papua New Guinea,2019,Total,8.89
+Luxembourg,2019,Total,8.89
+Australia,2019,Total,8.93
+Switzerland,2019,Total,8.97
+Saint Lucia,2019,Total,8.98
+Monaco,2019,Total,9.21
+Spain,2019,Total,9.34
+Saint Vincent and the Grenadines,2019,Total,9.41
+United Kingdom of Great Britain and Northern Ireland,2019,Total,9.52
+Denmark,2019,Total,9.66
+Haiti,2019,Total,9.69
+Barbados,2019,Total,9.79
+San Marino,2019,Total,9.85
+Switzerland,2018,Total,10.01
+Denmark,2018,Total,10.02
+United Kingdom of Great Britain and Northern Ireland,2018,Total,10.07
+Spain,2018,Total,10.08
+Haiti,2018,Total,10.23
+Barbados,2018,Total,10.36
+Mauritius,2018,Total,10.45
+Grenada,2018,Total,10.57
+Trinidad and Tobago,2018,Total,10.72
+San Marino,2018,Total,10.81
+Japan,2018,Total,10.87
+Belize,2018,Total,10.9
+Lithuania,2018,Total,11.12
+Brazil,2018,Total,11.15
+France,2018,Total,11.23
+Netherlands,2018,Total,11.49
+Guyana,2018,Total,11.52
+Germany,2018,Total,11.7
+Namibia,2018,Total,11.88
+Paraguay,2018,Total,12.11
+Belgium,2018,Total,12.16
+Panama,2018,Total,12.37
+Maldives,2018,Total,12.47
+Kenya,2018,Total,12.58
+Argentina,2018,Total,12.6
+Austria,2018,Total,12.68
+Suriname,2018,Total,12.75
+Latvia,2018,Total,12.84
+Botswana,2018,Total,12.95
+Singapore,2018,Total,13.12
+Zimbabwe,2018,Total,13.12
+Republic of Moldova,2018,Total,13.3
+Morocco,2018,Total,13.58
+Malta,2018,Total,13.79
+Ukraine,2018,Total,14.24
+Cuba,2018,Total,14.28
+Comoros,2018,Total,14.42
+Somalia,2018,Total,14.45
+Colombia,2018,Total,14.72
+Eswatini,2018,Total,14.95
+Cyprus,2018,Total,15.38
+United Republic of Tanzania,2018,Total,15.41
+Costa Rica,2018,Total,15.59
+Romania,2018,Total,15.6
+Greece,2018,Total,15.69
+Jamaica,2018,Total,15.73
+Italy,2018,Total,15.97
+Belarus,2018,Total,16.09
+Madagascar,2018,Total,16.14
+Ecuador,2018,Total,16.38
+Seychelles,2018,Total,16.48
+Mozambique,2018,Total,16.68
+Zambia,2018,Total,16.99
+Venezuela (Bolivarian Republic of),2018,Total,17.06
+Cambodia,2018,Total,17.16
+Nicaragua,2018,Total,17.24
+Hungary,2018,Total,17.25
+Czechia,2018,Total,17.5
+Slovenia,2018,Total,17.77
+Lesotho,2018,Total,17.8
+Indonesia,2018,Total,18.47
+Malawi,2018,Total,18.61
+Mexico,2018,Total,18.75
+Croatia,2018,Total,18.98
+Slovakia,2018,Total,19.08
+South Africa,2018,Total,19.52
+Timor-Leste,2018,Total,19.66
+Lao People's Democratic Republic,2018,Total,19.68
+Albania,2018,Total,19.76
+Honduras,2018,Total,20.03
+Viet Nam,2018,Total,20.09
+Djibouti,2018,Total,20.39
+Bulgaria,2018,Total,20.4
+Malaysia,2018,Total,20.5
+Georgia,2018,Total,20.66
+Chile,2018,Total,21.47
+Philippines,2018,Total,21.52
+Guatemala,2018,Total,21.71
+Sudan,2018,Total,21.89
+South Sudan,2018,Total,21.94
+Ethiopia,2018,Total,22.23
+Poland,2018,Total,22.51
+Algeria,2018,Total,22.73
+Eritrea,2018,Total,22.98
+Sri Lanka,2018,Total,23.12
+Türkiye,2018,Total,23.29
+Montenegro,2018,Total,23.35
+El Salvador,2018,Total,23.36
+Thailand,2018,Total,23.68
+Republic of Korea,2018,Total,23.7
+Lebanon,2018,Total,24.08
+Bolivia (Plurinational State of),2018,Total,24.63
+Syrian Arab Republic,2018,Total,25.13
+Jordan,2018,Total,25.85
+Angola,2018,Total,25.85
+Serbia,2018,Total,25.86
+Myanmar,2018,Total,26.04
+Gabon,2018,Total,26.26
+Equatorial Guinea,2018,Total,26.38
+Azerbaijan,2018,Total,26.96
+Tunisia,2018,Total,27.22
+Burundi,2018,Total,27.98
+Central African Republic,2018,Total,28.25
+Kazakhstan,2018,Total,28.46
+Bhutan,2018,Total,28.73
+Peru,2018,Total,28.81
+Turkmenistan,2018,Total,29.17
+Congo,2018,Total,29.27
+The former Yugoslav Republic of Macedonia,2018,Total,30.06
+Libya,2018,Total,30.41
+Occupied Palestinian territory,2018,Total,30.52
+Cabo Verde,2018,Total,31.2
+Democratic Republic of the Congo,2018,Total,31.46
+Uganda,2018,Total,31.73
+Bosnia and Herzegovina,2018,Total,32.02
+Iran (Islamic Republic of),2018,Total,32.18
+Benin,2018,Total,32.34
+Sao Tome and Principe,2018,Total,33.84
+Rwanda,2018,Total,34.92
+Liberia,2018,Total,35.68
+Guinea-Bissau,2018,Total,35.9
+Oman,2018,Total,36.68
+Togo,2018,Total,36.83
+Armenia,2018,Total,37.09
+Guinea,2018,Total,37.96
+Senegal,2018,Total,39.08
+Sierra Leone,2018,Total,39.46
+Mali,2018,Total,39.82
+Gambia,2018,Total,39.86
+Iraq,2018,Total,39.98
+Nepal,2018,Total,40.06
+China,2018,Total,40.54
+Kyrgyzstan,2018,Total,41.0
+Yemen,2018,Total,41.62
+Burkina Faso,2018,Total,41.77
+Côte d’Ivoire,2018,Total,41.81
+Mauritania,2018,Total,42.58
+Chad,2018,Total,42.61
+United Arab Emirates,2018,Total,43.1
+Democratic People's Republic of Korea,2018,Total,43.53
+Mongolia,2018,Total,44.04
+Uzbekistan,2018,Total,44.62
+Ghana,2018,Total,48.04
+Finland,2018,Total,5.57
+Bahamas,2018,Total,5.61
+Iceland,2018,Total,5.89
+Bangladesh,2018,Total,50.66
+Niger,2018,Total,50.74
+Bahrain,2018,Total,54.49
+India,2018,Total,55.48
+Pakistan,2018,Total,56.5
+Nigeria,2018,Total,56.52
+Cameroon,2018,Total,57.8
+Saudi Arabia,2018,Total,58.3
+Tajikistan,2018,Total,58.58
+Sweden,2018,Total,6.09
+Norway,2018,Total,6.33
+Brunei Darussalam,2018,Total,6.7
+Estonia,2018,Total,6.7
+Niue,2018,Total,6.73
+Tuvalu,2018,Total,6.94
+Egypt,2018,Total,62.2
+Qatar,2018,Total,62.66
+Kuwait,2018,Total,66.05
+Canada,2018,Total,7.09
+Australia,2018,Total,7.11
+Marshall Islands,2018,Total,7.14
+New Zealand,2018,Total,7.45
+Tonga,2018,Total,7.47
+Fiji,2018,Total,7.52
+Nauru,2018,Total,7.59
+Micronesia (Federated States of),2018,Total,7.63
+Kiribati,2018,Total,7.67
+Cook Islands,2018,Total,7.76
+Palau,2018,Total,7.77
+Samoa,2018,Total,7.77
+Portugal,2018,Total,7.9
+Solomon Islands,2018,Total,7.95
+Afghanistan,2018,Total,70.25
+Dominican Republic,2018,Total,8.0
+United States of America,2018,Total,8.13
+Ireland,2018,Total,8.31
+Saint Kitts and Nevis,2018,Total,8.59
+Dominica,2018,Total,8.75
+Vanuatu,2018,Total,8.81
+Uruguay,2018,Total,8.82
+Antigua and Barbuda,2018,Total,8.87
+Papua New Guinea,2018,Total,8.93
+Andorra,2018,Total,9.21
+Russian Federation,2018,Total,9.22
+Saint Lucia,2018,Total,9.51
+Luxembourg,2018,Total,9.71
+Monaco,2018,Total,9.88
+Saint Vincent and the Grenadines,2018,Total,9.94
+Saint Lucia,2017,Total,10.03
+United Kingdom of Great Britain and Northern Ireland,2017,Total,10.09
+Spain,2017,Total,10.21
+Mauritius,2017,Total,10.35
+Saint Vincent and the Grenadines,2017,Total,10.5
+San Marino,2017,Total,10.55
+Haiti,2017,Total,10.61
+Barbados,2017,Total,10.91
+Grenada,2017,Total,11.14
+Trinidad and Tobago,2017,Total,11.27
+France,2017,Total,11.29
+Belize,2017,Total,11.36
+Latvia,2017,Total,11.46
+Netherlands,2017,Total,11.63
+Germany,2017,Total,11.78
+Japan,2017,Total,11.89
+Namibia,2017,Total,11.98
+Republic of Moldova,2017,Total,11.98
+Guyana,2017,Total,12.03
+Austria,2017,Total,12.32
+Belgium,2017,Total,12.33
+Kenya,2017,Total,12.51
+Maldives,2017,Total,12.52
+Malta,2017,Total,12.6
+Ukraine,2017,Total,12.93
+Botswana,2017,Total,13.11
+Zimbabwe,2017,Total,13.15
+Argentina,2017,Total,13.24
+Suriname,2017,Total,13.3
+Panama,2017,Total,13.38
+Morocco,2017,Total,13.91
+Singapore,2017,Total,14.23
+Comoros,2017,Total,14.29
+Belarus,2017,Total,14.37
+Somalia,2017,Total,14.5
+Cyprus,2017,Total,14.6
+Cuba,2017,Total,14.76
+Eswatini,2017,Total,14.78
+Brazil,2017,Total,14.86
+United Republic of Tanzania,2017,Total,15.2
+Greece,2017,Total,15.2
+Romania,2017,Total,15.32
+Italy,2017,Total,15.73
+Ecuador,2017,Total,15.84
+Madagascar,2017,Total,15.86
+Colombia,2017,Total,15.9
+Mozambique,2017,Total,16.26
+Jamaica,2017,Total,16.3
+Paraguay,2017,Total,16.36
+Seychelles,2017,Total,16.37
+Hungary,2017,Total,16.62
+Cambodia,2017,Total,16.84
+Czechia,2017,Total,16.99
+Zambia,2017,Total,16.99
+Costa Rica,2017,Total,17.05
+Slovenia,2017,Total,17.08
+Lesotho,2017,Total,17.75
+Croatia,2017,Total,18.22
+Indonesia,2017,Total,18.41
+Nicaragua,2017,Total,18.44
+Malawi,2017,Total,18.48
+Slovakia,2017,Total,18.49
+Venezuela (Bolivarian Republic of),2017,Total,18.71
+Albania,2017,Total,19.01
+South Africa,2017,Total,19.38
+Timor-Leste,2017,Total,19.49
+Lao People's Democratic Republic,2017,Total,19.68
+Viet Nam,2017,Total,20.1
+Bulgaria,2017,Total,20.3
+Malaysia,2017,Total,20.38
+Mexico,2017,Total,20.44
+Djibouti,2017,Total,20.9
+Georgia,2017,Total,21.06
+Honduras,2017,Total,21.07
+Philippines,2017,Total,21.62
+South Sudan,2017,Total,21.64
+Poland,2017,Total,21.96
+Ethiopia,2017,Total,22.23
+Montenegro,2017,Total,22.66
+Chile,2017,Total,22.69
+Sudan,2017,Total,22.73
+Türkiye,2017,Total,22.89
+Sri Lanka,2017,Total,22.99
+Algeria,2017,Total,23.33
+Lebanon,2017,Total,23.53
+Thailand,2017,Total,23.54
+Eritrea,2017,Total,23.56
+Guatemala,2017,Total,23.82
+Bolivia (Plurinational State of),2017,Total,24.17
+Syrian Arab Republic,2017,Total,24.83
+El Salvador,2017,Total,24.94
+Serbia,2017,Total,24.95
+Jordan,2017,Total,25.29
+Angola,2017,Total,25.44
+Republic of Korea,2017,Total,25.81
+Gabon,2017,Total,25.9
+Myanmar,2017,Total,25.93
+Tunisia,2017,Total,26.13
+Bhutan,2017,Total,26.49
+Equatorial Guinea,2017,Total,26.62
+Azerbaijan,2017,Total,27.48
+Burundi,2017,Total,27.63
+Peru,2017,Total,27.76
+Central African Republic,2017,Total,27.94
+Libya,2017,Total,28.42
+Congo,2017,Total,28.77
+Kazakhstan,2017,Total,29.04
+The former Yugoslav Republic of Macedonia,2017,Total,29.26
+Turkmenistan,2017,Total,29.49
+Occupied Palestinian territory,2017,Total,29.81
+Iran (Islamic Republic of),2017,Total,30.35
+Uganda,2017,Total,31.28
+Democratic Republic of the Congo,2017,Total,31.32
+Bosnia and Herzegovina,2017,Total,31.4
+Cabo Verde,2017,Total,32.59
+Benin,2017,Total,32.66
+Sao Tome and Principe,2017,Total,33.62
+Rwanda,2017,Total,34.71
+Liberia,2017,Total,35.98
+Oman,2017,Total,35.99
+Guinea-Bissau,2017,Total,36.53
+Nepal,2017,Total,36.76
+Togo,2017,Total,37.25
+Armenia,2017,Total,37.76
+Guinea,2017,Total,38.63
+Iraq,2017,Total,38.86
+Senegal,2017,Total,39.89
+Sierra Leone,2017,Total,40.25
+Mali,2017,Total,40.34
+Gambia,2017,Total,40.5
+Yemen,2017,Total,41.32
+Kyrgyzstan,2017,Total,41.61
+Côte d’Ivoire,2017,Total,42.12
+Burkina Faso,2017,Total,42.74
+United Arab Emirates,2017,Total,43.33
+Mauritania,2017,Total,43.42
+Chad,2017,Total,44.36
+Uzbekistan,2017,Total,45.48
+Mongolia,2017,Total,45.5
+Bangladesh,2017,Total,46.19
+China,2017,Total,46.9
+Ghana,2017,Total,48.44
+Finland,2017,Total,5.37
+Iceland,2017,Total,5.75
+Bahamas,2017,Total,5.8
+Estonia,2017,Total,5.9
+Sweden,2017,Total,5.93
+Democratic People's Republic of Korea,2017,Total,50.32
+India,2017,Total,51.3
+Pakistan,2017,Total,51.98
+Niger,2017,Total,52.41
+Bahrain,2017,Total,54.72
+Nigeria,2017,Total,57.45
+Saudi Arabia,2017,Total,58.47
+Cameroon,2017,Total,59.3
+Tajikistan,2017,Total,59.39
+Norway,2017,Total,6.36
+Niue,2017,Total,6.64
+Tuvalu,2017,Total,6.85
+Australia,2017,Total,6.89
+Canada,2017,Total,6.9
+Afghanistan,2017,Total,61.78
+Egypt,2017,Total,62.05
+Qatar,2017,Total,63.11
+Kuwait,2017,Total,65.63
+Brunei Darussalam,2017,Total,7.03
+New Zealand,2017,Total,7.14
+Marshall Islands,2017,Total,7.15
+Tonga,2017,Total,7.38
+Nauru,2017,Total,7.45
+Fiji,2017,Total,7.45
+Palau,2017,Total,7.5
+Cook Islands,2017,Total,7.6
+Micronesia (Federated States of),2017,Total,7.62
+Kiribati,2017,Total,7.63
+Samoa,2017,Total,7.67
+Solomon Islands,2017,Total,7.8
+United States of America,2017,Total,7.96
+Ireland,2017,Total,8.13
+Dominican Republic,2017,Total,8.32
+Russian Federation,2017,Total,8.38
+Vanuatu,2017,Total,8.62
+Papua New Guinea,2017,Total,8.87
+Saint Kitts and Nevis,2017,Total,8.97
+Portugal,2017,Total,9.04
+Dominica,2017,Total,9.23
+Antigua and Barbuda,2017,Total,9.27
+Uruguay,2017,Total,9.27
+Andorra,2017,Total,9.31
+Monaco,2017,Total,9.63
+Luxembourg,2017,Total,9.84
+Switzerland,2017,Total,9.89
+Lithuania,2017,Total,9.91
+Denmark,2017,Total,9.97
+Spain,2016,Total,10.04
+Saint Vincent and the Grenadines,2016,Total,10.05
+United Kingdom of Great Britain and Northern Ireland,2016,Total,10.19
+Lithuania,2016,Total,10.3
+San Marino,2016,Total,10.33
+Barbados,2016,Total,10.34
+Haiti,2016,Total,10.36
+Grenada,2016,Total,10.59
+Mauritius,2016,Total,10.73
+Trinidad and Tobago,2016,Total,10.95
+Belize,2016,Total,11.1
+France,2016,Total,11.24
+Netherlands,2016,Total,11.6
+Germany,2016,Total,11.66
+Guyana,2016,Total,11.76
+Namibia,2016,Total,11.9
+Brazil,2016,Total,12.0
+Latvia,2016,Total,12.15
+Austria,2016,Total,12.28
+Belgium,2016,Total,12.37
+Republic of Moldova,2016,Total,12.51
+Kenya,2016,Total,12.53
+Japan,2016,Total,12.54
+Botswana,2016,Total,12.69
+Suriname,2016,Total,12.9
+Zimbabwe,2016,Total,13.09
+Paraguay,2016,Total,13.27
+Malta,2016,Total,13.27
+Ukraine,2016,Total,13.33
+Morocco,2016,Total,13.55
+Maldives,2016,Total,13.66
+Cyprus,2016,Total,13.67
+Argentina,2016,Total,13.93
+Panama,2016,Total,14.04
+Comoros,2016,Total,14.15
+Somalia,2016,Total,14.4
+Cuba,2016,Total,14.47
+Eswatini,2016,Total,14.58
+Belarus,2016,Total,14.78
+Romania,2016,Total,14.85
+Greece,2016,Total,15.17
+Singapore,2016,Total,15.48
+United Republic of Tanzania,2016,Total,15.6
+Italy,2016,Total,15.82
+Jamaica,2016,Total,15.98
+Hungary,2016,Total,16.18
+Mozambique,2016,Total,16.43
+Madagascar,2016,Total,16.52
+Czechia,2016,Total,16.62
+Slovenia,2016,Total,16.74
+Colombia,2016,Total,16.9
+Ecuador,2016,Total,17.17
+Zambia,2016,Total,17.32
+Lesotho,2016,Total,17.42
+Croatia,2016,Total,17.73
+Costa Rica,2016,Total,17.86
+Slovakia,2016,Total,17.98
+Seychelles,2016,Total,18.15
+Albania,2016,Total,18.15
+Malawi,2016,Total,18.58
+South Africa,2016,Total,19.07
+Cambodia,2016,Total,19.16
+Nicaragua,2016,Total,19.56
+Bulgaria,2016,Total,19.63
+Venezuela (Bolivarian Republic of),2016,Total,19.65
+Djibouti,2016,Total,20.47
+Indonesia,2016,Total,20.78
+Timor-Leste,2016,Total,21.2
+Mexico,2016,Total,21.21
+Poland,2016,Total,21.34
+Montenegro,2016,Total,21.48
+Ethiopia,2016,Total,22.17
+Georgia,2016,Total,22.24
+Eritrea,2016,Total,22.3
+South Sudan,2016,Total,22.37
+Viet Nam,2016,Total,22.37
+Sudan,2016,Total,22.41
+Türkiye,2016,Total,22.53
+Honduras,2016,Total,22.63
+Malaysia,2016,Total,22.89
+Algeria,2016,Total,23.06
+Lao People's Democratic Republic,2016,Total,23.09
+Chile,2016,Total,23.75
+Philippines,2016,Total,23.9
+Lebanon,2016,Total,24.11
+Serbia,2016,Total,24.25
+Syrian Arab Republic,2016,Total,24.43
+Jordan,2016,Total,24.87
+Guatemala,2016,Total,25.0
+Sri Lanka,2016,Total,25.46
+Angola,2016,Total,26.08
+Bolivia (Plurinational State of),2016,Total,26.4
+Thailand,2016,Total,26.42
+El Salvador,2016,Total,26.44
+Gabon,2016,Total,26.67
+Equatorial Guinea,2016,Total,26.95
+Republic of Korea,2016,Total,27.26
+Tunisia,2016,Total,27.58
+Bhutan,2016,Total,27.63
+The former Yugoslav Republic of Macedonia,2016,Total,28.23
+Burundi,2016,Total,28.37
+Azerbaijan,2016,Total,28.84
+Central African Republic,2016,Total,29.15
+Myanmar,2016,Total,29.25
+Peru,2016,Total,29.49
+Iran (Islamic Republic of),2016,Total,29.5
+Bosnia and Herzegovina,2016,Total,29.71
+Congo,2016,Total,30.03
+Libya,2016,Total,30.07
+Occupied Palestinian territory,2016,Total,30.29
+Kazakhstan,2016,Total,30.66
+Turkmenistan,2016,Total,31.23
+Cabo Verde,2016,Total,31.83
+Uganda,2016,Total,32.08
+Benin,2016,Total,32.73
+Democratic Republic of the Congo,2016,Total,32.99
+Sao Tome and Principe,2016,Total,34.45
+Rwanda,2016,Total,34.97
+Guinea-Bissau,2016,Total,35.01
+Oman,2016,Total,35.54
+Liberia,2016,Total,35.72
+Togo,2016,Total,37.52
+Nepal,2016,Total,38.43
+Iraq,2016,Total,38.51
+Senegal,2016,Total,38.67
+Gambia,2016,Total,38.93
+Guinea,2016,Total,39.28
+Yemen,2016,Total,39.91
+Armenia,2016,Total,40.04
+Mali,2016,Total,40.08
+Sierra Leone,2016,Total,40.62
+Mauritania,2016,Total,42.43
+Côte d’Ivoire,2016,Total,42.7
+United Arab Emirates,2016,Total,42.89
+Burkina Faso,2016,Total,43.05
+Kyrgyzstan,2016,Total,44.05
+Chad,2016,Total,44.49
+Mongolia,2016,Total,47.5
+China,2016,Total,47.61
+Bangladesh,2016,Total,47.78
+Uzbekistan,2016,Total,48.09
+Ghana,2016,Total,49.59
+Finland,2016,Total,5.39
+Bahamas,2016,Total,5.56
+Iceland,2016,Total,5.69
+Sweden,2016,Total,5.88
+Democratic People's Republic of Korea,2016,Total,51.04
+Niger,2016,Total,52.51
+Bahrain,2016,Total,52.9
+India,2016,Total,53.0
+Pakistan,2016,Total,53.65
+Saudi Arabia,2016,Total,55.76
+Nigeria,2016,Total,57.17
+Cameroon,2016,Total,59.2
+Estonia,2016,Total,6.2
+Canada,2016,Total,6.31
+Norway,2016,Total,6.33
+Australia,2016,Total,6.67
+Tuvalu,2016,Total,6.7
+Niue,2016,Total,6.75
+New Zealand,2016,Total,6.91
+Qatar,2016,Total,61.3
+Egypt,2016,Total,61.97
+Tajikistan,2016,Total,62.73
+Afghanistan,2016,Total,64.0
+Kuwait,2016,Total,64.37
+Marshall Islands,2016,Total,7.27
+Nauru,2016,Total,7.33
+Fiji,2016,Total,7.39
+Tonga,2016,Total,7.4
+United States of America,2016,Total,7.54
+Palau,2016,Total,7.59
+Samoa,2016,Total,7.62
+Cook Islands,2016,Total,7.62
+Kiribati,2016,Total,7.64
+Micronesia (Federated States of),2016,Total,7.73
+Solomon Islands,2016,Total,7.76
+Brunei Darussalam,2016,Total,7.91
+Dominican Republic,2016,Total,8.02
+Ireland,2016,Total,8.08
+Portugal,2016,Total,8.42
+Vanuatu,2016,Total,8.66
+Saint Kitts and Nevis,2016,Total,8.66
+Papua New Guinea,2016,Total,8.69
+Russian Federation,2016,Total,8.71
+Dominica,2016,Total,8.88
+Antigua and Barbuda,2016,Total,8.95
+Andorra,2016,Total,9.06
+Monaco,2016,Total,9.53
+Saint Lucia,2016,Total,9.56
+Uruguay,2016,Total,9.75
+Luxembourg,2016,Total,9.75
+Denmark,2016,Total,9.78
+Switzerland,2016,Total,9.99
+Saint Vincent and the Grenadines,2015,Total,10.09
+Haiti,2015,Total,10.14
+Monaco,2015,Total,10.41
+Luxembourg,2015,Total,10.45
+Barbados,2015,Total,10.53
+Denmark,2015,Total,10.73
+Mauritius,2015,Total,10.75
+Grenada,2015,Total,10.76
+Switzerland,2015,Total,10.82
+Trinidad and Tobago,2015,Total,10.94
+United Kingdom of Great Britain and Northern Ireland,2015,Total,11.08
+Belize,2015,Total,11.1
+Spain,2015,Total,11.11
+San Marino,2015,Total,11.42
+Lithuania,2015,Total,11.44
+Guyana,2015,Total,11.72
+Namibia,2015,Total,11.88
+Brazil,2015,Total,12.05
+France,2015,Total,12.21
+Maldives,2015,Total,12.23
+Kenya,2015,Total,12.5
+Netherlands,2015,Total,12.59
+Germany,2015,Total,12.64
+Japan,2015,Total,12.75
+Botswana,2015,Total,12.89
+Suriname,2015,Total,12.96
+Paraguay,2015,Total,13.0
+Zimbabwe,2015,Total,13.27
+Belgium,2015,Total,13.28
+Latvia,2015,Total,13.4
+Morocco,2015,Total,13.48
+Republic of Moldova,2015,Total,13.61
+Austria,2015,Total,13.63
+Malta,2015,Total,13.85
+Cuba,2015,Total,14.16
+Argentina,2015,Total,14.18
+Somalia,2015,Total,14.22
+Comoros,2015,Total,14.54
+Ukraine,2015,Total,14.67
+Eswatini,2015,Total,14.83
+Panama,2015,Total,14.87
+Cyprus,2015,Total,15.13
+Romania,2015,Total,15.41
+United Republic of Tanzania,2015,Total,15.59
+Jamaica,2015,Total,15.75
+Singapore,2015,Total,16.16
+Madagascar,2015,Total,16.42
+Greece,2015,Total,16.45
+Belarus,2015,Total,16.49
+Seychelles,2015,Total,16.51
+Mozambique,2015,Total,16.68
+Hungary,2015,Total,17.16
+Italy,2015,Total,17.28
+Colombia,2015,Total,17.33
+Cambodia,2015,Total,17.43
+Zambia,2015,Total,17.43
+Czechia,2015,Total,17.52
+Slovenia,2015,Total,17.55
+Lesotho,2015,Total,17.65
+Ecuador,2015,Total,17.73
+Costa Rica,2015,Total,18.32
+Croatia,2015,Total,18.65
+Malawi,2015,Total,18.8
+Albania,2015,Total,18.98
+Slovakia,2015,Total,19.05
+South Africa,2015,Total,19.14
+Indonesia,2015,Total,19.34
+Timor-Leste,2015,Total,19.43
+Venezuela (Bolivarian Republic of),2015,Total,20.12
+Djibouti,2015,Total,20.39
+Bulgaria,2015,Total,20.41
+Viet Nam,2015,Total,20.47
+Lao People's Democratic Republic,2015,Total,20.55
+Nicaragua,2015,Total,20.61
+Malaysia,2015,Total,21.44
+Mexico,2015,Total,21.8
+Philippines,2015,Total,22.05
+South Sudan,2015,Total,22.06
+Ethiopia,2015,Total,22.12
+Eritrea,2015,Total,22.33
+Algeria,2015,Total,22.49
+Montenegro,2015,Total,22.5
+Sudan,2015,Total,22.55
+Georgia,2015,Total,22.57
+Poland,2015,Total,22.59
+Türkiye,2015,Total,22.96
+Honduras,2015,Total,23.07
+Sri Lanka,2015,Total,23.08
+Thailand,2015,Total,24.1
+Chile,2015,Total,24.15
+Lebanon,2015,Total,24.49
+Syrian Arab Republic,2015,Total,24.75
+Angola,2015,Total,25.03
+Serbia,2015,Total,25.33
+Jordan,2015,Total,25.34
+Guatemala,2015,Total,25.42
+Tunisia,2015,Total,26.13
+Gabon,2015,Total,26.13
+Bolivia (Plurinational State of),2015,Total,26.5
+Myanmar,2015,Total,26.53
+El Salvador,2015,Total,27.18
+Equatorial Guinea,2015,Total,27.29
+Republic of Korea,2015,Total,27.61
+Burundi,2015,Total,28.37
+Congo,2015,Total,28.99
+Bhutan,2015,Total,29.04
+Central African Republic,2015,Total,29.06
+Libya,2015,Total,29.07
+The former Yugoslav Republic of Macedonia,2015,Total,29.51
+Azerbaijan,2015,Total,29.67
+Iran (Islamic Republic of),2015,Total,29.87
+Peru,2015,Total,30.29
+Occupied Palestinian territory,2015,Total,30.49
+Bosnia and Herzegovina,2015,Total,30.74
+Kazakhstan,2015,Total,30.83
+Turkmenistan,2015,Total,31.44
+Uganda,2015,Total,31.65
+Democratic Republic of the Congo,2015,Total,32.21
+Benin,2015,Total,33.11
+Cabo Verde,2015,Total,33.38
+Sao Tome and Principe,2015,Total,34.0
+Rwanda,2015,Total,34.69
+Oman,2015,Total,35.84
+Guinea-Bissau,2015,Total,36.11
+Liberia,2015,Total,37.68
+Togo,2015,Total,38.25
+Iraq,2015,Total,39.05
+Guinea,2015,Total,39.19
+Nepal,2015,Total,39.82
+Gambia,2015,Total,39.87
+Senegal,2015,Total,39.9
+Armenia,2015,Total,40.59
+Mali,2015,Total,40.77
+Yemen,2015,Total,41.06
+Sierra Leone,2015,Total,42.53
+Burkina Faso,2015,Total,43.63
+Mauritania,2015,Total,43.68
+Côte d’Ivoire,2015,Total,43.76
+United Arab Emirates,2015,Total,43.93
+Chad,2015,Total,44.5
+Kyrgyzstan,2015,Total,44.58
+Mongolia,2015,Total,47.79
+Uzbekistan,2015,Total,48.46
+Bahamas,2015,Total,5.32
+Finland,2015,Total,5.83
+Ghana,2015,Total,50.01
+Bangladesh,2015,Total,50.63
+China,2015,Total,51.76
+Niger,2015,Total,52.87
+India,2015,Total,55.48
+Pakistan,2015,Total,55.9
+Bahrain,2015,Total,56.38
+Democratic People's Republic of Korea,2015,Total,56.44
+Nigeria,2015,Total,57.28
+Saudi Arabia,2015,Total,58.48
+Cameroon,2015,Total,59.09
+Sweden,2015,Total,6.37
+Iceland,2015,Total,6.43
+Niue,2015,Total,6.53
+Australia,2015,Total,6.6
+Estonia,2015,Total,6.75
+Norway,2015,Total,6.82
+New Zealand,2015,Total,6.94
+Tuvalu,2015,Total,6.95
+Egypt,2015,Total,61.56
+Tajikistan,2015,Total,63.28
+Qatar,2015,Total,65.91
+Kuwait,2015,Total,66.17
+Afghanistan,2015,Total,67.2
+Marshall Islands,2015,Total,7.1
+Canada,2015,Total,7.15
+Tonga,2015,Total,7.26
+Nauru,2015,Total,7.28
+Kiribati,2015,Total,7.31
+Fiji,2015,Total,7.32
+Cook Islands,2015,Total,7.45
+Micronesia (Federated States of),2015,Total,7.65
+Samoa,2015,Total,7.76
+Brunei Darussalam,2015,Total,7.81
+Solomon Islands,2015,Total,7.86
+Dominican Republic,2015,Total,7.87
+Palau,2015,Total,8.02
+United States of America,2015,Total,8.31
+Saint Kitts and Nevis,2015,Total,8.59
+Vanuatu,2015,Total,8.62
+Portugal,2015,Total,8.68
+Dominica,2015,Total,8.81
+Antigua and Barbuda,2015,Total,8.89
+Papua New Guinea,2015,Total,8.97
+Ireland,2015,Total,9.16
+Russian Federation,2015,Total,9.49
+Saint Lucia,2015,Total,9.62
+Uruguay,2015,Total,9.9
+Andorra,2015,Total,9.94
+Grenada,2014,Total,10.18
+Luxembourg,2014,Total,10.27
+Spain,2014,Total,10.31
+Trinidad and Tobago,2014,Total,10.34
+Denmark,2014,Total,10.39
+Switzerland,2014,Total,10.51
+Mauritius,2014,Total,10.66
+Belize,2014,Total,10.8
+Russian Federation,2014,Total,10.8
+United Kingdom of Great Britain and Northern Ireland,2014,Total,10.95
+San Marino,2014,Total,11.0
+Guyana,2014,Total,11.08
+France,2014,Total,11.88
+Namibia,2014,Total,11.93
+Maldives,2014,Total,12.08
+Suriname,2014,Total,12.23
+Germany,2014,Total,12.47
+Kenya,2014,Total,12.47
+Netherlands,2014,Total,12.49
+Botswana,2014,Total,12.78
+Lithuania,2014,Total,12.92
+Austria,2014,Total,12.98
+Zimbabwe,2014,Total,13.12
+Belgium,2014,Total,13.13
+Morocco,2014,Total,13.26
+Brazil,2014,Total,13.29
+Japan,2014,Total,13.41
+Argentina,2014,Total,13.56
+Cuba,2014,Total,13.71
+Malta,2014,Total,13.9
+Paraguay,2014,Total,14.08
+Comoros,2014,Total,14.24
+Somalia,2014,Total,14.25
+Panama,2014,Total,14.52
+Cyprus,2014,Total,14.88
+Eswatini,2014,Total,15.05
+United Republic of Tanzania,2014,Total,15.35
+Jamaica,2014,Total,15.36
+Latvia,2014,Total,15.39
+Greece,2014,Total,15.61
+Republic of Moldova,2014,Total,15.64
+Romania,2014,Total,15.96
+Seychelles,2014,Total,16.23
+Madagascar,2014,Total,16.24
+Ukraine,2014,Total,16.58
+Singapore,2014,Total,16.63
+Mozambique,2014,Total,16.68
+Italy,2014,Total,16.69
+Cambodia,2014,Total,17.02
+Colombia,2014,Total,17.21
+Zambia,2014,Total,17.29
+Hungary,2014,Total,17.68
+Slovenia,2014,Total,17.91
+Lesotho,2014,Total,17.95
+Costa Rica,2014,Total,18.04
+Czechia,2014,Total,18.28
+Ecuador,2014,Total,18.56
+Malawi,2014,Total,18.71
+Belarus,2014,Total,18.77
+Indonesia,2014,Total,18.87
+South Africa,2014,Total,18.98
+Croatia,2014,Total,19.1
+Albania,2014,Total,19.13
+Timor-Leste,2014,Total,19.27
+Slovakia,2014,Total,19.52
+Venezuela (Bolivarian Republic of),2014,Total,19.84
+Djibouti,2014,Total,20.0
+Viet Nam,2014,Total,20.08
+Lao People's Democratic Republic,2014,Total,20.15
+Nicaragua,2014,Total,20.25
+Malaysia,2014,Total,20.81
+Bulgaria,2014,Total,21.17
+South Sudan,2014,Total,21.24
+Eritrea,2014,Total,21.31
+Sudan,2014,Total,21.4
+Philippines,2014,Total,21.54
+Mexico,2014,Total,21.56
+Ethiopia,2014,Total,21.94
+Algeria,2014,Total,22.64
+Sri Lanka,2014,Total,22.66
+Georgia,2014,Total,22.76
+Türkiye,2014,Total,22.86
+Honduras,2014,Total,23.1
+Chile,2014,Total,23.14
+Montenegro,2014,Total,23.26
+Poland,2014,Total,23.45
+Thailand,2014,Total,23.66
+Lebanon,2014,Total,23.82
+Equatorial Guinea,2014,Total,24.11
+Angola,2014,Total,24.12
+Syrian Arab Republic,2014,Total,24.13
+Jordan,2014,Total,24.47
+Gabon,2014,Total,24.74
+Guatemala,2014,Total,25.22
+Myanmar,2014,Total,26.08
+Serbia,2014,Total,26.27
+Tunisia,2014,Total,27.01
+El Salvador,2014,Total,27.04
+Bolivia (Plurinational State of),2014,Total,27.48
+Central African Republic,2014,Total,27.61
+Burundi,2014,Total,28.28
+Congo,2014,Total,28.65
+Republic of Korea,2014,Total,28.95
+Iran (Islamic Republic of),2014,Total,29.06
+Bhutan,2014,Total,29.72
+Azerbaijan,2014,Total,29.93
+Libya,2014,Total,29.98
+Occupied Palestinian territory,2014,Total,30.03
+Cabo Verde,2014,Total,30.11
+The former Yugoslav Republic of Macedonia,2014,Total,30.38
+Kazakhstan,2014,Total,30.91
+Benin,2014,Total,31.14
+Uganda,2014,Total,31.43
+Peru,2014,Total,31.47
+Democratic Republic of the Congo,2014,Total,31.47
+Turkmenistan,2014,Total,31.93
+Bosnia and Herzegovina,2014,Total,32.07
+Sao Tome and Principe,2014,Total,32.12
+Guinea-Bissau,2014,Total,34.51
+Liberia,2014,Total,34.66
+Oman,2014,Total,34.69
+Togo,2014,Total,34.92
+Rwanda,2014,Total,34.93
+Iraq,2014,Total,36.63
+Guinea,2014,Total,37.47
+Senegal,2014,Total,37.69
+Gambia,2014,Total,37.96
+Yemen,2014,Total,38.27
+Mali,2014,Total,38.38
+Côte d’Ivoire,2014,Total,39.55
+Burkina Faso,2014,Total,40.02
+Nepal,2014,Total,40.3
+Sierra Leone,2014,Total,40.53
+Armenia,2014,Total,40.56
+Mauritania,2014,Total,40.81
+Chad,2014,Total,41.04
+United Arab Emirates,2014,Total,41.34
+Ghana,2014,Total,44.33
+Kyrgyzstan,2014,Total,44.6
+Mongolia,2014,Total,47.14
+Uzbekistan,2014,Total,48.7
+Niger,2014,Total,48.8
+Bahamas,2014,Total,5.32
+Finland,2014,Total,5.77
+Bahrain,2014,Total,50.12
+Bangladesh,2014,Total,50.96
+Saudi Arabia,2014,Total,52.96
+Cameroon,2014,Total,53.82
+Nigeria,2014,Total,53.96
+China,2014,Total,55.4
+India,2014,Total,55.89
+Pakistan,2014,Total,56.26
+Qatar,2014,Total,58.29
+Iceland,2014,Total,6.03
+Sweden,2014,Total,6.3
+Niue,2014,Total,6.52
+Norway,2014,Total,6.62
+Tuvalu,2014,Total,6.78
+Australia,2014,Total,6.91
+Marshall Islands,2014,Total,6.97
+Democratic People's Republic of Korea,2014,Total,60.09
+Kuwait,2014,Total,61.96
+Egypt,2014,Total,62.02
+Tajikistan,2014,Total,63.46
+Afghanistan,2014,Total,68.06
+Nauru,2014,Total,7.18
+New Zealand,2014,Total,7.19
+Tonga,2014,Total,7.2
+Fiji,2014,Total,7.23
+Canada,2014,Total,7.29
+Kiribati,2014,Total,7.33
+Cook Islands,2014,Total,7.36
+Micronesia (Federated States of),2014,Total,7.37
+Samoa,2014,Total,7.55
+Solomon Islands,2014,Total,7.62
+Dominican Republic,2014,Total,7.7
+Palau,2014,Total,7.76
+Estonia,2014,Total,7.85
+Portugal,2014,Total,7.9
+Brunei Darussalam,2014,Total,8.02
+Saint Kitts and Nevis,2014,Total,8.22
+Vanuatu,2014,Total,8.36
+Dominica,2014,Total,8.36
+Papua New Guinea,2014,Total,8.39
+Antigua and Barbuda,2014,Total,8.5
+United States of America,2014,Total,8.62
+Ireland,2014,Total,8.74
+Saint Lucia,2014,Total,9.1
+Andorra,2014,Total,9.35
+Uruguay,2014,Total,9.52
+Saint Vincent and the Grenadines,2014,Total,9.55
+Haiti,2014,Total,9.92
+Barbados,2014,Total,9.95
+Monaco,2014,Total,9.97
+Andorra,2013,Total,10.15
+Belize,2013,Total,10.25
+Guyana,2013,Total,10.41
+Russian Federation,2013,Total,10.46
+Mauritius,2013,Total,10.64
+Monaco,2013,Total,10.77
+Denmark,2013,Total,10.97
+Luxembourg,2013,Total,11.03
+Spain,2013,Total,11.22
+Switzerland,2013,Total,11.38
+Suriname,2013,Total,11.46
+San Marino,2013,Total,11.72
+United Kingdom of Great Britain and Northern Ireland,2013,Total,11.82
+Namibia,2013,Total,11.85
+Kenya,2013,Total,12.44
+Lithuania,2013,Total,12.65
+Botswana,2013,Total,12.81
+Morocco,2013,Total,12.87
+France,2013,Total,12.95
+Zimbabwe,2013,Total,13.1
+Brazil,2013,Total,13.15
+Netherlands,2013,Total,13.2
+Cuba,2013,Total,13.24
+Germany,2013,Total,13.27
+Japan,2013,Total,13.45
+Maldives,2013,Total,13.67
+Austria,2013,Total,13.98
+Argentina,2013,Total,14.02
+Comoros,2013,Total,14.07
+Somalia,2013,Total,14.27
+Malta,2013,Total,14.31
+Jamaica,2013,Total,14.32
+Paraguay,2013,Total,14.34
+Belgium,2013,Total,14.41
+Eswatini,2013,Total,14.9
+Latvia,2013,Total,15.06
+Republic of Moldova,2013,Total,15.1
+Panama,2013,Total,15.21
+United Republic of Tanzania,2013,Total,15.36
+Romania,2013,Total,15.96
+Ukraine,2013,Total,15.99
+Cyprus,2013,Total,16.12
+Madagascar,2013,Total,16.55
+Singapore,2013,Total,16.58
+Mozambique,2013,Total,16.65
+Zambia,2013,Total,17.24
+Greece,2013,Total,17.32
+Hungary,2013,Total,17.41
+Lesotho,2013,Total,17.75
+Italy,2013,Total,17.91
+Belarus,2013,Total,17.94
+Slovenia,2013,Total,17.98
+Czechia,2013,Total,18.07
+Colombia,2013,Total,18.08
+Ecuador,2013,Total,18.12
+Seychelles,2013,Total,18.27
+Malawi,2013,Total,18.73
+South Africa,2013,Total,18.82
+Croatia,2013,Total,18.93
+Costa Rica,2013,Total,19.14
+Cambodia,2013,Total,19.2
+Slovakia,2013,Total,19.47
+Albania,2013,Total,19.77
+Djibouti,2013,Total,20.71
+Indonesia,2013,Total,20.91
+Venezuela (Bolivarian Republic of),2013,Total,21.0
+Timor-Leste,2013,Total,21.12
+Bulgaria,2013,Total,21.16
+Algeria,2013,Total,21.19
+Nicaragua,2013,Total,21.24
+South Sudan,2013,Total,21.54
+Sudan,2013,Total,21.94
+Ethiopia,2013,Total,22.07
+Eritrea,2013,Total,22.21
+Lao People's Democratic Republic,2013,Total,22.54
+Viet Nam,2013,Total,22.62
+Türkiye,2013,Total,23.07
+Malaysia,2013,Total,23.18
+Mexico,2013,Total,23.19
+Poland,2013,Total,23.36
+Montenegro,2013,Total,23.4
+Chile,2013,Total,23.83
+Lebanon,2013,Total,23.9
+Georgia,2013,Total,23.92
+Philippines,2013,Total,24.21
+Equatorial Guinea,2013,Total,24.31
+Syrian Arab Republic,2013,Total,24.46
+Honduras,2013,Total,24.52
+Angola,2013,Total,24.53
+Jordan,2013,Total,24.85
+Gabon,2013,Total,25.17
+Sri Lanka,2013,Total,25.48
+Tunisia,2013,Total,25.75
+Serbia,2013,Total,26.17
+Bolivia (Plurinational State of),2013,Total,26.52
+Thailand,2013,Total,26.62
+Central African Republic,2013,Total,26.62
+Guatemala,2013,Total,27.23
+Burundi,2013,Total,28.21
+Republic of Korea,2013,Total,28.54
+El Salvador,2013,Total,28.61
+Myanmar,2013,Total,29.31
+Iran (Islamic Republic of),2013,Total,29.55
+Occupied Palestinian territory,2013,Total,29.85
+Congo,2013,Total,29.9
+Peru,2013,Total,30.47
+Bhutan,2013,Total,30.7
+Cabo Verde,2013,Total,30.72
+Benin,2013,Total,30.84
+Libya,2013,Total,30.87
+The former Yugoslav Republic of Macedonia,2013,Total,30.88
+Azerbaijan,2013,Total,31.35
+Bosnia and Herzegovina,2013,Total,31.49
+Uganda,2013,Total,31.79
+Democratic Republic of the Congo,2013,Total,32.08
+Sao Tome and Principe,2013,Total,32.41
+Kazakhstan,2013,Total,32.64
+Guinea-Bissau,2013,Total,33.12
+Liberia,2013,Total,33.16
+Turkmenistan,2013,Total,33.52
+Togo,2013,Total,34.79
+Rwanda,2013,Total,34.88
+Guinea,2013,Total,35.99
+Mali,2013,Total,36.21
+Oman,2013,Total,36.21
+Gambia,2013,Total,36.76
+Senegal,2013,Total,36.88
+Sierra Leone,2013,Total,37.75
+Burkina Faso,2013,Total,38.51
+Iraq,2013,Total,38.56
+Côte d’Ivoire,2013,Total,39.45
+Mauritania,2013,Total,40.3
+Chad,2013,Total,40.62
+Yemen,2013,Total,41.02
+Nepal,2013,Total,41.79
+Armenia,2013,Total,42.85
+United Arab Emirates,2013,Total,42.88
+Ghana,2013,Total,44.53
+Kyrgyzstan,2013,Total,47.61
+Niger,2013,Total,47.72
+Mongolia,2013,Total,48.77
+Bahamas,2013,Total,5.08
+Uzbekistan,2013,Total,51.6
+Bahrain,2013,Total,52.8
+Bangladesh,2013,Total,52.87
+Nigeria,2013,Total,52.89
+Cameroon,2013,Total,53.04
+Saudi Arabia,2013,Total,57.1
+India,2013,Total,58.2
+Pakistan,2013,Total,59.05
+Finland,2013,Total,6.2
+Iceland,2013,Total,6.39
+Niue,2013,Total,6.41
+Sweden,2013,Total,6.61
+Tuvalu,2013,Total,6.81
+Qatar,2013,Total,61.37
+Egypt,2013,Total,61.93
+China,2013,Total,64.93
+Kuwait,2013,Total,65.57
+Tajikistan,2013,Total,67.17
+Democratic People's Republic of Korea,2013,Total,68.48
+Tonga,2013,Total,7.09
+Fiji,2013,Total,7.12
+Norway,2013,Total,7.13
+Marshall Islands,2013,Total,7.21
+Dominican Republic,2013,Total,7.22
+Australia,2013,Total,7.26
+Nauru,2013,Total,7.37
+Canada,2013,Total,7.41
+Cook Islands,2013,Total,7.44
+New Zealand,2013,Total,7.51
+Solomon Islands,2013,Total,7.54
+Kiribati,2013,Total,7.55
+Estonia,2013,Total,7.63
+Samoa,2013,Total,7.64
+Micronesia (Federated States of),2013,Total,7.64
+Saint Kitts and Nevis,2013,Total,7.75
+Palau,2013,Total,7.77
+Dominica,2013,Total,7.89
+Afghanistan,2013,Total,72.18
+Antigua and Barbuda,2013,Total,8.05
+Brunei Darussalam,2013,Total,8.08
+Vanuatu,2013,Total,8.31
+Papua New Guinea,2013,Total,8.39
+Saint Lucia,2013,Total,8.55
+United States of America,2013,Total,8.75
+Saint Vincent and the Grenadines,2013,Total,8.97
+Barbados,2013,Total,9.32
+Ireland,2013,Total,9.33
+Haiti,2013,Total,9.37
+Portugal,2013,Total,9.44
+Grenada,2013,Total,9.54
+Uruguay,2013,Total,9.72
+Trinidad and Tobago,2013,Total,9.79
+Belize,2012,Total,10.18
+Russian Federation,2012,Total,10.22
+Mauritius,2012,Total,10.59
+Guyana,2012,Total,10.76
+Andorra,2012,Total,10.8
+Monaco,2012,Total,11.16
+Luxembourg,2012,Total,11.32
+Denmark,2012,Total,11.44
+Switzerland,2012,Total,11.74
+Spain,2012,Total,11.83
+Suriname,2012,Total,11.86
+San Marino,2012,Total,12.12
+United Kingdom of Great Britain and Northern Ireland,2012,Total,12.14
+Namibia,2012,Total,12.17
+Lithuania,2012,Total,12.19
+Japan,2012,Total,12.37
+Kenya,2012,Total,12.46
+Argentina,2012,Total,12.95
+Botswana,2012,Total,13.0
+Zimbabwe,2012,Total,13.21
+Morocco,2012,Total,13.24
+Maldives,2012,Total,13.27
+France,2012,Total,13.29
+Cuba,2012,Total,13.71
+Netherlands,2012,Total,13.75
+Germany,2012,Total,13.76
+Brazil,2012,Total,14.14
+Comoros,2012,Total,14.16
+Austria,2012,Total,14.25
+Latvia,2012,Total,14.35
+Malta,2012,Total,14.39
+Panama,2012,Total,14.52
+Somalia,2012,Total,14.61
+Belgium,2012,Total,14.64
+Jamaica,2012,Total,14.71
+Eswatini,2012,Total,14.75
+Republic of Moldova,2012,Total,14.85
+Singapore,2012,Total,15.2
+Paraguay,2012,Total,15.26
+United Republic of Tanzania,2012,Total,15.55
+Ukraine,2012,Total,15.61
+Madagascar,2012,Total,16.17
+Cyprus,2012,Total,16.23
+Mozambique,2012,Total,16.47
+Romania,2012,Total,16.96
+Colombia,2012,Total,17.18
+Belarus,2012,Total,17.35
+Lesotho,2012,Total,17.54
+Zambia,2012,Total,17.55
+Greece,2012,Total,17.7
+Ecuador,2012,Total,17.74
+Seychelles,2012,Total,17.82
+Hungary,2012,Total,18.1
+Cambodia,2012,Total,18.22
+Costa Rica,2012,Total,18.51
+Italy,2012,Total,18.52
+South Africa,2012,Total,18.68
+Slovenia,2012,Total,18.73
+Czechia,2012,Total,18.8
+Malawi,2012,Total,18.97
+Venezuela (Bolivarian Republic of),2012,Total,19.87
+Croatia,2012,Total,19.89
+Nicaragua,2012,Total,20.12
+Indonesia,2012,Total,20.27
+Slovakia,2012,Total,20.27
+Timor-Leste,2012,Total,20.73
+Djibouti,2012,Total,21.16
+Viet Nam,2012,Total,21.67
+Albania,2012,Total,21.7
+Lao People's Democratic Republic,2012,Total,21.75
+South Sudan,2012,Total,21.92
+Chile,2012,Total,22.01
+Ethiopia,2012,Total,22.09
+Bulgaria,2012,Total,22.22
+Mexico,2012,Total,22.24
+Malaysia,2012,Total,22.27
+Honduras,2012,Total,22.49
+Sudan,2012,Total,22.61
+Eritrea,2012,Total,22.69
+Algeria,2012,Total,22.76
+Türkiye,2012,Total,22.76
+Philippines,2012,Total,23.35
+Lebanon,2012,Total,23.97
+Angola,2012,Total,24.01
+Poland,2012,Total,24.47
+Sri Lanka,2012,Total,24.61
+Syrian Arab Republic,2012,Total,24.7
+Jordan,2012,Total,24.94
+Tunisia,2012,Total,25.4
+Equatorial Guinea,2012,Total,25.53
+Georgia,2012,Total,25.6
+Thailand,2012,Total,25.66
+Guatemala,2012,Total,25.71
+Gabon,2012,Total,25.71
+Republic of Korea,2012,Total,26.18
+Bolivia (Plurinational State of),2012,Total,26.26
+Montenegro,2012,Total,26.83
+El Salvador,2012,Total,26.86
+Central African Republic,2012,Total,27.84
+Serbia,2012,Total,27.88
+Burundi,2012,Total,28.29
+Myanmar,2012,Total,28.51
+Libya,2012,Total,28.53
+Occupied Palestinian territory,2012,Total,29.45
+Iran (Islamic Republic of),2012,Total,29.63
+Congo,2012,Total,29.85
+Peru,2012,Total,29.99
+Bhutan,2012,Total,30.03
+Benin,2012,Total,31.85
+Cabo Verde,2012,Total,31.92
+Uganda,2012,Total,32.14
+Democratic Republic of the Congo,2012,Total,32.14
+Sao Tome and Principe,2012,Total,33.16
+Azerbaijan,2012,Total,33.58
+The former Yugoslav Republic of Macedonia,2012,Total,33.88
+Bosnia and Herzegovina,2012,Total,34.06
+Kazakhstan,2012,Total,34.82
+Guinea-Bissau,2012,Total,35.24
+Rwanda,2012,Total,35.33
+Liberia,2012,Total,35.5
+Turkmenistan,2012,Total,35.6
+Togo,2012,Total,35.96
+Oman,2012,Total,36.91
+Guinea,2012,Total,38.56
+Iraq,2012,Total,38.57
+Senegal,2012,Total,38.98
+Gambia,2012,Total,38.99
+Mali,2012,Total,39.79
+Nepal,2012,Total,40.44
+Sierra Leone,2012,Total,41.1
+Burkina Faso,2012,Total,41.17
+Côte d’Ivoire,2012,Total,41.19
+Mauritania,2012,Total,42.28
+Yemen,2012,Total,42.49
+Chad,2012,Total,43.04
+United Arab Emirates,2012,Total,43.93
+Armenia,2012,Total,45.9
+Ghana,2012,Total,46.17
+Niger,2012,Total,49.83
+Bahamas,2012,Total,5.28
+Kyrgyzstan,2012,Total,50.32
+Bangladesh,2012,Total,50.82
+Mongolia,2012,Total,52.19
+China,2012,Total,53.43
+Bahrain,2012,Total,54.4
+Nigeria,2012,Total,54.53
+Uzbekistan,2012,Total,54.88
+Cameroon,2012,Total,55.42
+India,2012,Total,55.72
+Pakistan,2012,Total,56.29
+Democratic People's Republic of Korea,2012,Total,56.46
+Saudi Arabia,2012,Total,58.6
+Finland,2012,Total,6.33
+Niue,2012,Total,6.43
+Iceland,2012,Total,6.64
+Tuvalu,2012,Total,6.87
+Sweden,2012,Total,6.9
+Egypt,2012,Total,60.5
+Qatar,2012,Total,63.84
+Kuwait,2012,Total,65.7
+Afghanistan,2012,Total,68.26
+Fiji,2012,Total,7.1
+Tonga,2012,Total,7.1
+Marshall Islands,2012,Total,7.12
+Australia,2012,Total,7.31
+Norway,2012,Total,7.33
+Estonia,2012,Total,7.38
+Nauru,2012,Total,7.4
+Solomon Islands,2012,Total,7.43
+Cook Islands,2012,Total,7.43
+Micronesia (Federated States of),2012,Total,7.46
+Dominican Republic,2012,Total,7.46
+Kiribati,2012,Total,7.54
+Samoa,2012,Total,7.56
+Brunei Darussalam,2012,Total,7.62
+New Zealand,2012,Total,7.67
+Canada,2012,Total,7.71
+Palau,2012,Total,7.78
+Saint Kitts and Nevis,2012,Total,7.91
+Tajikistan,2012,Total,71.5
+Dominica,2012,Total,8.12
+Vanuatu,2012,Total,8.19
+Antigua and Barbuda,2012,Total,8.2
+Papua New Guinea,2012,Total,8.39
+Saint Lucia,2012,Total,8.81
+Uruguay,2012,Total,9.03
+United States of America,2012,Total,9.07
+Saint Vincent and the Grenadines,2012,Total,9.23
+Ireland,2012,Total,9.43
+Portugal,2012,Total,9.43
+Barbados,2012,Total,9.6
+Haiti,2012,Total,9.61
+Grenada,2012,Total,9.78
+Trinidad and Tobago,2012,Total,9.97
+Guyana,2011,Total,10.09
+Russian Federation,2011,Total,10.53
+Mauritius,2011,Total,10.54
+Ireland,2011,Total,10.6
+Portugal,2011,Total,10.68
+Suriname,2011,Total,11.12
+Andorra,2011,Total,11.66
+Namibia,2011,Total,12.1
+Monaco,2011,Total,12.37
+Maldives,2011,Total,12.38
+Kenya,2011,Total,12.43
+Luxembourg,2011,Total,12.63
+Lithuania,2011,Total,12.77
+Cuba,2011,Total,12.78
+Denmark,2011,Total,12.98
+Switzerland,2011,Total,13.0
+Spain,2011,Total,13.09
+Argentina,2011,Total,13.22
+Zimbabwe,2011,Total,13.27
+Morocco,2011,Total,13.28
+United Kingdom of Great Britain and Northern Ireland,2011,Total,13.41
+San Marino,2011,Total,13.44
+Jamaica,2011,Total,13.68
+Botswana,2011,Total,13.69
+Comoros,2011,Total,13.89
+Japan,2011,Total,13.91
+Somalia,2011,Total,14.47
+Eswatini,2011,Total,14.71
+France,2011,Total,14.72
+Panama,2011,Total,14.78
+Brazil,2011,Total,14.89
+Latvia,2011,Total,15.06
+United Republic of Tanzania,2011,Total,15.33
+Germany,2011,Total,15.42
+Netherlands,2011,Total,15.53
+Republic of Moldova,2011,Total,15.67
+Paraguay,2011,Total,15.89
+Austria,2011,Total,15.99
+Belgium,2011,Total,16.29
+Mozambique,2011,Total,16.31
+Malta,2011,Total,16.46
+Madagascar,2011,Total,16.53
+Singapore,2011,Total,16.54
+Ukraine,2011,Total,16.55
+Seychelles,2011,Total,16.79
+Ecuador,2011,Total,17.1
+Cambodia,2011,Total,17.31
+Zambia,2011,Total,17.33
+Cyprus,2011,Total,17.57
+Lesotho,2011,Total,17.74
+Colombia,2011,Total,17.85
+Belarus,2011,Total,18.1
+South Africa,2011,Total,18.67
+Romania,2011,Total,18.68
+Malawi,2011,Total,18.85
+Indonesia,2011,Total,19.12
+Costa Rica,2011,Total,19.18
+Greece,2011,Total,19.55
+Timor-Leste,2011,Total,19.57
+Lao People's Democratic Republic,2011,Total,20.19
+Hungary,2011,Total,20.29
+Slovenia,2011,Total,20.55
+Viet Nam,2011,Total,20.67
+Venezuela (Bolivarian Republic of),2011,Total,20.71
+Italy,2011,Total,20.73
+Czechia,2011,Total,20.8
+Djibouti,2011,Total,20.83
+Nicaragua,2011,Total,20.95
+Malaysia,2011,Total,21.04
+Algeria,2011,Total,21.56
+South Sudan,2011,Total,21.83
+Croatia,2011,Total,22.07
+Philippines,2011,Total,22.13
+Ethiopia,2011,Total,22.38
+Chile,2011,Total,22.5
+Sudan,2011,Total,22.61
+Slovakia,2011,Total,22.66
+Eritrea,2011,Total,22.72
+Albania,2011,Total,23.0
+Sri Lanka,2011,Total,23.21
+Türkiye,2011,Total,23.28
+Lebanon,2011,Total,23.34
+Mexico,2011,Total,23.53
+Thailand,2011,Total,24.16
+Bulgaria,2011,Total,24.29
+Syrian Arab Republic,2011,Total,24.62
+Jordan,2011,Total,24.63
+Angola,2011,Total,24.67
+Honduras,2011,Total,24.7
+Equatorial Guinea,2011,Total,24.93
+Gabon,2011,Total,25.37
+Tunisia,2011,Total,25.54
+Bolivia (Plurinational State of),2011,Total,25.83
+Georgia,2011,Total,25.98
+Myanmar,2011,Total,26.64
+Poland,2011,Total,27.02
+Montenegro,2011,Total,27.21
+Guatemala,2011,Total,27.38
+Burundi,2011,Total,27.7
+El Salvador,2011,Total,28.31
+Peru,2011,Total,28.47
+Central African Republic,2011,Total,28.59
+Libya,2011,Total,28.6
+Occupied Palestinian territory,2011,Total,28.77
+Bhutan,2011,Total,29.09
+Republic of Korea,2011,Total,29.35
+Iran (Islamic Republic of),2011,Total,29.61
+Congo,2011,Total,30.5
+Serbia,2011,Total,30.68
+Cabo Verde,2011,Total,31.06
+Benin,2011,Total,31.37
+Uganda,2011,Total,31.49
+Democratic Republic of the Congo,2011,Total,31.62
+Sao Tome and Principe,2011,Total,32.58
+Liberia,2011,Total,33.44
+Azerbaijan,2011,Total,33.92
+Guinea-Bissau,2011,Total,34.2
+Kazakhstan,2011,Total,34.57
+Rwanda,2011,Total,34.81
+Togo,2011,Total,35.82
+Turkmenistan,2011,Total,35.85
+Oman,2011,Total,35.9
+The former Yugoslav Republic of Macedonia,2011,Total,36.52
+Bosnia and Herzegovina,2011,Total,36.57
+Guinea,2011,Total,36.86
+Sierra Leone,2011,Total,37.26
+Senegal,2011,Total,37.61
+Gambia,2011,Total,37.63
+Mali,2011,Total,38.29
+Iraq,2011,Total,38.61
+Nepal,2011,Total,39.48
+Bahamas,2011,Total,4.92
+Burkina Faso,2011,Total,40.39
+Côte d’Ivoire,2011,Total,40.75
+Yemen,2011,Total,41.03
+Mauritania,2011,Total,41.32
+Chad,2011,Total,42.21
+United Arab Emirates,2011,Total,43.53
+Ghana,2011,Total,45.88
+Armenia,2011,Total,46.46
+Niger,2011,Total,49.57
+Bangladesh,2011,Total,49.97
+Kyrgyzstan,2011,Total,50.7
+Mongolia,2011,Total,51.58
+China,2011,Total,51.92
+Nigeria,2011,Total,53.71
+Cameroon,2011,Total,54.4
+Bahrain,2011,Total,54.69
+India,2011,Total,55.05
+Uzbekistan,2011,Total,55.1
+Democratic People's Republic of Korea,2011,Total,55.18
+Pakistan,2011,Total,55.34
+Saudi Arabia,2011,Total,56.65
+Egypt,2011,Total,59.32
+Niue,2011,Total,6.34
+Tuvalu,2011,Total,6.95
+Qatar,2011,Total,63.84
+Kuwait,2011,Total,65.28
+Afghanistan,2011,Total,66.94
+Finland,2011,Total,7.03
+Fiji,2011,Total,7.04
+Dominican Republic,2011,Total,7.04
+Tonga,2011,Total,7.05
+Marshall Islands,2011,Total,7.07
+Cook Islands,2011,Total,7.3
+Micronesia (Federated States of),2011,Total,7.35
+Solomon Islands,2011,Total,7.37
+Iceland,2011,Total,7.46
+Samoa,2011,Total,7.48
+Saint Kitts and Nevis,2011,Total,7.53
+Nauru,2011,Total,7.58
+Palau,2011,Total,7.61
+Kiribati,2011,Total,7.62
+Estonia,2011,Total,7.65
+Dominica,2011,Total,7.7
+Sweden,2011,Total,7.76
+Antigua and Barbuda,2011,Total,7.79
+Canada,2011,Total,7.87
+Tajikistan,2011,Total,71.8
+Australia,2011,Total,8.08
+Vanuatu,2011,Total,8.23
+Papua New Guinea,2011,Total,8.28
+Norway,2011,Total,8.32
+Saint Lucia,2011,Total,8.34
+Brunei Darussalam,2011,Total,8.42
+New Zealand,2011,Total,8.54
+Saint Vincent and the Grenadines,2011,Total,8.75
+Barbados,2011,Total,9.04
+Haiti,2011,Total,9.05
+Uruguay,2011,Total,9.2
+Grenada,2011,Total,9.24
+United States of America,2011,Total,9.36
+Trinidad and Tobago,2011,Total,9.44
+Belize,2011,Total,9.8
+Guyana,2010,Total,10.49
+Portugal,2010,Total,10.55
+Mauritius,2010,Total,10.6
+Suriname,2010,Total,11.36
+Andorra,2010,Total,11.43
+Russian Federation,2010,Total,11.88
+Monaco,2010,Total,11.91
+Namibia,2010,Total,11.94
+Denmark,2010,Total,12.27
+Luxembourg,2010,Total,12.38
+Kenya,2010,Total,12.38
+Spain,2010,Total,12.72
+Switzerland,2010,Total,12.76
+San Marino,2010,Total,13.02
+Argentina,2010,Total,13.14
+Morocco,2010,Total,13.17
+United Kingdom of Great Britain and Northern Ireland,2010,Total,13.17
+Zimbabwe,2010,Total,13.28
+Cuba,2010,Total,13.32
+Maldives,2010,Total,13.39
+Comoros,2010,Total,13.74
+Lithuania,2010,Total,13.87
+Panama,2010,Total,14.13
+Botswana,2010,Total,14.14
+Japan,2010,Total,14.22
+Somalia,2010,Total,14.35
+France,2010,Total,14.45
+Jamaica,2010,Total,14.58
+Brazil,2010,Total,14.6
+Eswatini,2010,Total,14.97
+Netherlands,2010,Total,15.01
+Germany,2010,Total,15.06
+United Republic of Tanzania,2010,Total,15.45
+Austria,2010,Total,15.62
+Belgium,2010,Total,16.08
+Paraguay,2010,Total,16.37
+Latvia,2010,Total,16.48
+Madagascar,2010,Total,16.5
+Mozambique,2010,Total,16.65
+Republic of Moldova,2010,Total,16.83
+Singapore,2010,Total,16.89
+Zambia,2010,Total,17.09
+Malta,2010,Total,17.17
+Colombia,2010,Total,17.42
+Ecuador,2010,Total,17.47
+Ukraine,2010,Total,17.81
+Seychelles,2010,Total,17.9
+Romania,2010,Total,18.06
+Costa Rica,2010,Total,18.35
+Lesotho,2010,Total,18.43
+Cyprus,2010,Total,18.53
+South Africa,2010,Total,18.69
+Malawi,2010,Total,18.72
+Cambodia,2010,Total,18.85
+Hungary,2010,Total,19.48
+Slovenia,2010,Total,19.69
+Greece,2010,Total,19.7
+Belarus,2010,Total,19.91
+Nicaragua,2010,Total,19.92
+Italy,2010,Total,20.11
+Czechia,2010,Total,20.25
+Djibouti,2010,Total,20.58
+Indonesia,2010,Total,20.59
+Venezuela (Bolivarian Republic of),2010,Total,20.67
+Timor-Leste,2010,Total,20.75
+Croatia,2010,Total,20.99
+South Sudan,2010,Total,21.21
+Algeria,2010,Total,21.27
+Slovakia,2010,Total,21.7
+Albania,2010,Total,21.95
+Sudan,2010,Total,22.01
+Mexico,2010,Total,22.13
+Chile,2010,Total,22.25
+Ethiopia,2010,Total,22.26
+Viet Nam,2010,Total,22.37
+Honduras,2010,Total,22.41
+Eritrea,2010,Total,22.42
+Malaysia,2010,Total,22.67
+Georgia,2010,Total,22.84
+Lao People's Democratic Republic,2010,Total,22.86
+Türkiye,2010,Total,23.74
+Philippines,2010,Total,23.82
+Bulgaria,2010,Total,23.87
+Angola,2010,Total,24.2
+Lebanon,2010,Total,24.24
+Equatorial Guinea,2010,Total,24.25
+Jordan,2010,Total,24.53
+Sri Lanka,2010,Total,24.99
+Syrian Arab Republic,2010,Total,25.08
+Gabon,2010,Total,25.25
+Guatemala,2010,Total,25.98
+Montenegro,2010,Total,26.09
+Poland,2010,Total,26.32
+Thailand,2010,Total,26.36
+Tunisia,2010,Total,26.68
+El Salvador,2010,Total,26.93
+Burundi,2010,Total,27.84
+Central African Republic,2010,Total,27.87
+Bolivia (Plurinational State of),2010,Total,28.03
+Cabo Verde,2010,Total,28.17
+Occupied Palestinian territory,2010,Total,29.42
+Serbia,2010,Total,29.42
+Myanmar,2010,Total,29.45
+Bhutan,2010,Total,29.51
+Peru,2010,Total,29.59
+Republic of Korea,2010,Total,29.83
+Iran (Islamic Republic of),2010,Total,29.89
+Azerbaijan,2010,Total,30.11
+Congo,2010,Total,30.36
+Kazakhstan,2010,Total,30.42
+Benin,2010,Total,30.97
+Libya,2010,Total,31.19
+Uganda,2010,Total,31.29
+Turkmenistan,2010,Total,31.48
+Sao Tome and Principe,2010,Total,31.74
+Democratic Republic of the Congo,2010,Total,31.84
+Liberia,2010,Total,32.85
+Guinea-Bissau,2010,Total,33.91
+Rwanda,2010,Total,34.4
+The former Yugoslav Republic of Macedonia,2010,Total,34.53
+Bosnia and Herzegovina,2010,Total,34.91
+Togo,2010,Total,34.98
+Oman,2010,Total,35.54
+Sierra Leone,2010,Total,36.32
+Senegal,2010,Total,36.73
+Guinea,2010,Total,36.76
+Gambia,2010,Total,37.46
+Yemen,2010,Total,38.83
+Mauritania,2010,Total,38.9
+Mali,2010,Total,39.04
+Iraq,2010,Total,39.32
+Côte d’Ivoire,2010,Total,39.44
+Nepal,2010,Total,39.78
+Bahamas,2010,Total,4.97
+Armenia,2010,Total,40.9
+Burkina Faso,2010,Total,41.3
+Chad,2010,Total,41.64
+United Arab Emirates,2010,Total,43.71
+Ghana,2010,Total,44.16
+Kyrgyzstan,2010,Total,44.68
+Mongolia,2010,Total,45.2
+China,2010,Total,47.18
+Uzbekistan,2010,Total,48.52
+Bangladesh,2010,Total,49.43
+Niger,2010,Total,49.55
+Democratic People's Republic of Korea,2010,Total,50.41
+Nigeria,2010,Total,52.85
+Cameroon,2010,Total,53.58
+India,2010,Total,55.17
+Bahrain,2010,Total,55.87
+Pakistan,2010,Total,56.4
+Saudi Arabia,2010,Total,56.55
+Niue,2010,Total,6.44
+Tuvalu,2010,Total,6.76
+Iceland,2010,Total,6.91
+Egypt,2010,Total,60.83
+Tajikistan,2010,Total,63.4
+Qatar,2010,Total,64.27
+Kuwait,2010,Total,66.51
+Afghanistan,2010,Total,68.97
+Finland,2010,Total,7.07
+Tonga,2010,Total,7.14
+Fiji,2010,Total,7.19
+Palau,2010,Total,7.23
+Marshall Islands,2010,Total,7.27
+Samoa,2010,Total,7.4
+Solomon Islands,2010,Total,7.42
+Cook Islands,2010,Total,7.46
+Nauru,2010,Total,7.5
+Dominican Republic,2010,Total,7.52
+Sweden,2010,Total,7.52
+Micronesia (Federated States of),2010,Total,7.55
+Kiribati,2010,Total,7.6
+Canada,2010,Total,7.76
+Dominica,2010,Total,7.86
+Norway,2010,Total,7.86
+Saint Kitts and Nevis,2010,Total,7.93
+Vanuatu,2010,Total,8.09
+Antigua and Barbuda,2010,Total,8.17
+Brunei Darussalam,2010,Total,8.33
+Saint Lucia,2010,Total,8.43
+Estonia,2010,Total,8.47
+Papua New Guinea,2010,Total,8.65
+Saint Vincent and the Grenadines,2010,Total,8.85
+Australia,2010,Total,9.03
+Barbados,2010,Total,9.15
+Uruguay,2010,Total,9.18
+United States of America,2010,Total,9.29
+New Zealand,2010,Total,9.35
+Grenada,2010,Total,9.4
+Haiti,2010,Total,9.56
+Trinidad and Tobago,2010,Total,9.79
+Ireland,2010,Total,9.9
+Belize,2010,Total,9.91
