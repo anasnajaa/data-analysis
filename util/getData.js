@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs/promises');
 
 exports.getData = async () => {
-    const data =  await fs.readFile(path.join("data", "data.csv"), { encoding: "utf8" });
+    const data =  await fs.readFile(path.join("datasets", "11.csv"), { encoding: "utf8" });
 
     const rows = data.split("\n");
 
