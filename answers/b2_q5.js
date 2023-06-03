@@ -1,7 +1,12 @@
 const {normalizedCountries} = require('../util/normalize');
 
 exports.b2_q5 = async () => {
-    const countries = await normalizedCountries();
+    try {
+        const countries = await normalizedCountries();
 
-    return countries;
+        return countries;        
+    } catch (err) {
+        console.log(err);
+        return null;
+    }
 }

@@ -31,8 +31,6 @@ exports.b2_q7 = async () => {
         })
     })
 
-    console.log(year[0].sortedMale)
-
     let maleRankList = [];
 
     yearsList.forEach(year => {
